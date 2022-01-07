@@ -1,0 +1,4 @@
+name: TestPlugin
+version: 1.0
+api-version: 1.13
+main: com.kesigomon.tutorialPlugin.TutorialPlugin
